@@ -16,7 +16,7 @@ yarn dev
 For app1
 
 ```sh
-cd app
+cd app1
 yarn install
 yarn dev
 ```
